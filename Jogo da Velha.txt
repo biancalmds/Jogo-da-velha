@@ -4,6 +4,6 @@ Jogo da Velha
 ---+---+---
  O | O | X
 ---+---+---
- X | 8 | 9
+ X | O | 9
 
 Próximo jogador: X
