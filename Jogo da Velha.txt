@@ -15,6 +15,6 @@ Jogo da Velha 2
 ---+---+---
  4 | O | X
 ---+---+---
- O | 8 | O
+ O | X | O
 
 Próximo jogador: O
