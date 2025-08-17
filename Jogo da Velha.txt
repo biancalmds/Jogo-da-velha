@@ -1,4 +1,4 @@
-Jogo da Velha
+Jogo da Velha 1
 
  X | X | O
 ---+---+---
@@ -7,3 +7,14 @@ Jogo da Velha
  X | O | X
 
 Próximo jogador: X
+
+
+Jogo da Velha 2
+
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
+
+Próximo jogador: O
