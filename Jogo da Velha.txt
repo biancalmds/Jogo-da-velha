@@ -13,8 +13,8 @@ Jogo da Velha 2
 
  1 | 2 | 3
 ---+---+---
- 4 | O | 6
+ 4 | O | X
 ---+---+---
  7 | 8 | 9
 
-Próximo jogador: X
+Próximo jogador: O
